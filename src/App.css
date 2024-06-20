@@ -1,0 +1,16 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.form-check {
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}
